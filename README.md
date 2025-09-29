@@ -4,12 +4,3 @@ Estrutura de aprendizado simples, envolvendo manipulação de telas para os alun
 
 Tecnologias utilizadas:
 
-- Java
-- JavaFX
-- Scene Builder
-- MySQL
-- Git
-- GitHub
-- JDBC
-- MySQL Workbench
-- CSS
